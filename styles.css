@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+}
+/* backgrounds */
+section{
+    height: 100vh;
+    background: #484848;
+}
+
+section:nth-child(even){
+    background: white;
+}
